@@ -3,7 +3,8 @@ Resources for upskilling on NLP.
 
 ## Tutorials
 
-1.  Good [NLTK](http://www.nltk.org/) tutorial, albeit with some fun Python code fixes needed :) - [NLTK Tutorial:  Natural Language Processing w/ Python](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/) (for a working notebook see [notebooks folder](notebooks))
+1.  Featurize free-form text data using `mmlspark` on top of primitives in SparkML via a single transformer in this official `mmlspark` [notebook](https://github.com/Azure/mmlspark/blob/master/notebooks/samples/201%20-%20Amazon%20Book%20Reviews%20-%20TextFeaturizer.ipynb)
+2.  Good [NLTK](http://www.nltk.org/) tutorial, albeit with some fun Python code fixes needed :) - [NLTK Tutorial:  Natural Language Processing w/ Python](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/) (for a working notebook see [notebooks folder](notebooks))
 
 ## Examples
 
