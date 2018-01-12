@@ -8,6 +8,8 @@ My resources for learning NLP with Python.
 2.  Natural Language Processing with NLTK and Gensim [Video](https://www.youtube.com/watch?v=itKNpCPHq3I)
 3.  A Word2Vec Keras tutorial [Tutorial](http://adventuresinmachinelearning.com/word2vec-keras-tutorial/)
 4.  Language Understanding with Recurrent Networks and CNTK [Tutorial](https://cntk.ai/pythondocs/CNTK_202_Language_Understanding.html)
+5.  Vector Representations of Words with TensorFlow [Tutorial](https://www.tensorflow.org/versions/r1.3/tutorials/word2vec)
+5.  Word2Vec word embedding tutorial in Python and TensorFlow [Tutorial](http://adventuresinmachinelearning.com/word2vec-tutorial-tensorflow/)
 
 ## Courses and Course Materials
 
@@ -15,9 +17,10 @@ My resources for learning NLP with Python.
 
 ## Examples
 
-1.  [`scikit-learn`'s document clustering with k-means official example](http://scikit-learn.org/stable/auto_examples/text/document_clustering.html#sphx-glr-auto-examples-text-document-clustering-py)
-2.  Featurize free-form text data using `mmlspark` on top of primitives in SparkML via a single transformer in this official `mmlspark` [notebook](https://github.com/Azure/mmlspark/blob/master/notebooks/samples/201%20-%20Amazon%20Book%20Reviews%20-%20TextFeaturizer.ipynb)
-3.  
+1.  Document clustering with k-means official `scikit-learn` [Example](http://scikit-learn.org/stable/auto_examples/text/document_clustering.html#sphx-glr-auto-examples-text-document-clustering-py)
+2.  Featurize free-form text data using `mmlspark` on top of primitives in SparkML via a single transformer in this official `mmlspark` [Notebook](https://github.com/Azure/mmlspark/blob/master/notebooks/samples/201%20-%20Amazon%20Book%20Reviews%20-%20TextFeaturizer.ipynb)
+3.  Sequence Classification with CNTK [Example](https://github.com/Microsoft/CNTK/blob/v2.3/Examples/SequenceClassification/SimpleExample/Python/SequenceClassification.py)
+4.  Sequence2Sequence with CNTK [Example](https://github.com/Microsoft/CNTK/blob/v2.3/Examples/SequenceToSequence/CMUDict/Python/Sequence2Sequence.py)
 
 ## NLP at Scale
 
