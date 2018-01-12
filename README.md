@@ -1,6 +1,4 @@
-# navigating-nlp
-
-My resources for learning NLP with Python.
+# Resources
 
 ## Tutorials
 
