@@ -20,6 +20,13 @@
 3.  Sequence Classification with CNTK [Example](https://github.com/Microsoft/CNTK/blob/v2.3/Examples/SequenceClassification/SimpleExample/Python/SequenceClassification.py)
 4.  Sequence2Sequence with CNTK [Example](https://github.com/Microsoft/CNTK/blob/v2.3/Examples/SequenceToSequence/CMUDict/Python/Sequence2Sequence.py)
 
+## NLP-Specific Packages
+
+1.  `allennlp`:  Deep Learning for NLP from AllenNLP built on PyTorch [Ref](https://allennlp.org) - good for conditional random field, encoders/decoders, reading comprehension, semantic role, etc.
+2.  `gensim`:  topic modelling [Docs](https://radimrehurek.com/gensim/) - good for word2vec, semantic similarity, LDA, LSA, etc.
+3.  `nltk`:  Natural Language Toolkit [Docs](http://www.nltk.org/) - good for tokenization, stemming, tagging, parsing, corpora, etc.
+...
+
 ## NLP at Scale
 
 1.  Document classification with `pyspark` with HDInsight on Azure [Doc](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-apache-spark-ipython-notebook-machine-learning)
