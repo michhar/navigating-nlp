@@ -11,7 +11,7 @@
 
 ## Courses and Course Materials
 
-1.  Stanford Deep Learning for NLP [Course Material](http://cs224d.stanford.edu/syllabus.html)
+1.  Stanford Deep Learning for NLP (cs224n) [Course Material](http://web.stanford.edu/class/cs224n/syllabus.html)
 
 ## Examples
 
